@@ -1,0 +1,12 @@
+{
+  "attributes" : [ {
+    "trait_type" : "Color",
+    "value" : "White"
+  }, {
+    "trait_type" : "Season",
+    "value" : "Wintar"
+  } ],
+  "description" : "The world's most cold and cold picture.",
+  "image" : "https://gateway.pinata.cloud/ipfs/QmQ72TGigguzJvSPokfeFjvoHyi7qydndffHc4DdZv3cRb",
+  "name" : "Cold"
+}
